@@ -1,5 +1,8 @@
 {
-  "questions": 1,
-  "scenarios": 1,
-  "config": 1
+  "FinalTestQuestions5.csv": "1",
+  "MarqueeFacts.csv": "1",
+  "ServSafeCurriculum.csv": "1",
+  "ServSafeMilestones.csv": "1",
+  "ServSafeProTips.csv": "1",
+  "ScenarioDrills.csv": "1"
 }
