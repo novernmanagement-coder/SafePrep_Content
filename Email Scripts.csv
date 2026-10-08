@@ -1,0 +1,13 @@
+Script_ID,Name,Active,Role,Trigger,Wait_Days,Skip_If_Has,Subject,Opening,Blocks,Closing,PS
+welcome-proctor,Welcome · Proctor only,Yes,Proctor,Claim_Date,5,,"{first}, a few ways to get more out of being a proctor","Thanks for signing up with us. You're in our Find a Proctor directory, and you will be for as long as you want.
+
+I noticed you marked yourself as a proctor only, not an instructor, and that's great. If you're not planning to pursue the instructor side, here's some unsolicited advice: most people aren't searching for a ServSafe proctor. A few will, but you're limiting yourself to a small slice of the pie.
+
+I'm not saying you should go become an instructor. That's not for everyone. But I do have options for you.","safeprep, presenter",Questions about any of this? Just reply. I read every one.,"Tell me roughly how many exams you proctor a month, and I'll tell you which option pays for itself fastest."
+welcome-instructor,Welcome · Instructors,Yes,Instructor,Claim_Date,5,,Thanks for confirming - what can I do for you?,"Thanks for confirming your Find a Proctor listing. Students searching in {place} now see you as verified.
+
+Now I'd like to turn it around: what can I do for you? A few places I can help:",ways-to-help,"And if you haven't looked around FoodSafetyMadeEasy.com yet, it's the only site built just for ServSafe instructors and proctors, with blog posts, free guides and everything above in one place:
+{link:home}
+
+Or just hit reply and tell me what you need. I read every one.",
+offer-preferred,Offer · Preferred listing,No,All,Claim_Date,15,Preferred,"{first}, want your listing noticed?","Quick one. When a student searches near {place}, the closest proctors show first, unless someone has Preferred.",preferred,Want to be the first name they see? It takes two minutes.,
