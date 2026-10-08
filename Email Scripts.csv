@@ -17,12 +17,10 @@ Part of that is a free ""Find a Proctor"" directory, where students search by ZI
 
 {claim_link}
 
-It takes about two minutes. You can fix your contact info, add your city and ZIP so local students can find you, and mark it verified. It's free and always will be.
-
-If you'd rather not be listed, reply and I'll remove you.",,,
+It takes about two minutes. You can fix your contact info, add your city and ZIP so local students can find you, and mark it verified. It's free and always will be.",verified-badge,"If you'd rather not be listed, reply and I'll remove you.",
 outreach-2,Outreach 2 · Follow-up,Yes,All,Outreach 2,10,,Re: Your free listing on Find a Proctor,"Quick follow-up. Your listing on Find a Proctor is still unverified. Students in {place} use it to find someone near them, so it's worth making sure your info is current.
 
-Two minutes to check it: {claim_link}",,,
+Two minutes to check it: {claim_link}",verified-badge,,
 outreach-3,Outreach 3 · Last note,Yes,All,Outreach 3,20,,Last note about your proctor listing,"This is my last email about this. Your free listing stays up either way, but if your info is out of date, students may not reach you.
 
 {claim_link}
