@@ -1,4 +1,4 @@
-Script_ID,Name,Active,Role,Trigger,Wait_Days,Skip_If_Has,Subject,Opening,Blocks,Closing,PS
+Script_ID,Name,Active,Role,Trigger,Wait_Days,Skip_If_Has,Subject,Opening,Blocks,Closing,PS,Only_If_Has
 welcome-proctor,Welcome · Proctor only,Yes,Proctor,Claim_Date,5,,"{first}, a few ways to get more out of being a proctor","Thanks for signing up with us. You're in our Find a Proctor directory, and you will be for as long as you want.
 
 I noticed you marked yourself as a proctor only, not an instructor, and that's great. If you're not planning to pursue the instructor side, here's some unsolicited advice: most people aren't searching for a ServSafe proctor. A few will, but you're limiting yourself to a small slice of the pie.
