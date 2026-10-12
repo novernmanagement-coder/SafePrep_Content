@@ -1,9 +1,7 @@
 Script_ID,Name,Active,Role,Trigger,Wait_Days,Skip_If_Has,Subject,Opening,Blocks,Closing,PS,Only_If_Has
-welcome-proctor,Welcome · Proctor only,Yes,Proctor,Claim_Date,5,,"{first}, a few ways to get more out of being a proctor","Thanks for signing up with us. You're in our Find a Proctor directory, and you will be for as long as you want.
+welcome-proctor,Welcome · Proctor only,Yes,Proctor,Claim_Date,5,,Thanks for confirming - want to be the first proctor in {place}?,"Thanks for confirming your Find a Proctor listing. It helps us keep the directory accurate, so students searching in {place} find proctors who are actually active.
 
-I noticed you marked yourself as a proctor only, not an instructor, and that's great. If you're not planning to pursue the instructor side, here's some unsolicited advice: most people aren't searching for a ServSafe proctor. A few will, but you're limiting yourself to a small slice of the pie.
-
-I'm not saying you should go become an instructor. That's not for everyone. But I do have options for you.","safeprep, presenter",Questions about any of this? Just reply. I read every one.,"Tell me roughly how many exams you proctor a month, and I'll tell you which option pays for itself fastest.",
+As a proctor, most of your business comes from one moment: a student or manager searches near {place} and calls the first name they trust. Here's how to be that name:","verified-badge, preferred, pro, propremium, safeprep",Questions? Just hit reply. I read every one.,"Tell me roughly how many exams you proctor a month, and I'll tell you which option pays for itself fastest.",
 welcome-instructor,Welcome · Instructors,No,Instructor,Claim_Date,5,,Thanks for confirming - want to be first in {place}?,"Thanks for confirming your Find a Proctor listing. It helps us keep the directory accurate, so students searching in {place} find proctors who are actually active.
 
 Want to stand out from the rest of the list? Here's how:","verified-badge, preferred, pro, propremium",Or just hit reply and tell me what you need. I read every one.,,
