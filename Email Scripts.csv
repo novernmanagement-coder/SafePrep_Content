@@ -1,5 +1,5 @@
 Script_ID,Name,Active,Role,Trigger,Wait_Days,Skip_If_Has,Subject,Opening,Blocks,Closing,PS,Only_If_Has
-welcome-proctor,Welcome · Proctor only,No,Proctor,Claim_Date,5,,Thanks for confirming - want to be the first proctor in {place}?,"Thanks for confirming your Find a Proctor listing. It helps us keep the directory accurate, so students searching in {place} find proctors who are actually active.
+welcome-proctor,Welcome · Proctor only,Yes,Proctor,Claim_Date,5,,Thanks for confirming - want to be the first proctor in {place}?,"Thanks for confirming your Find a Proctor listing. It helps us keep the directory accurate, so students searching in {place} find proctors who are actually active.
 
 As a proctor, most of your business comes from one moment: a student or manager searches near {place} and calls the first name they trust. Here's how to be that name:","verified-badge, preferred, pro, propremium, safeprep",Questions? Just hit reply. I read every one.,"Tell me roughly how many exams you proctor a month, and I'll tell you which option pays for itself fastest.",
 welcome-instructor,Welcome · Instructors,No,Instructor,Claim_Date,5,,Thanks for confirming - want to be first in {place}?,"Thanks for confirming your Find a Proctor listing. It helps us keep the directory accurate, so students searching in {place} find proctors who are actually active.
