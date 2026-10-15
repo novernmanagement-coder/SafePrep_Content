@@ -43,7 +43,7 @@ You're already listed. Take a minute to claim your listing and check your inform
 {claim_link}
 
 IMPORTANT: Please make sure your ZIP code is there. Students search by ZIP, so without one your listing won't show up in local searches.",verified-badge,,"You can test your listing anytime at {link:find}. If you want to see how preferred placement works, search zip code 46060 — you’ll see GERALD MILLER near the top.",Advertised_Classes,
-partner-invite,Partner Invite,Yes,Proctor,Claim_Date,1,Partner,"{first}, quick in-person exam opportunity in {place}","Thanks for claiming your listing on Find a Proctor. Good to have you on board.
+partner-invite,Partner Invite,Yes,Proctor,Claim_Date,2,Partner,"{first}, quick in-person exam opportunity in {place}","Thanks for claiming your listing on Find a Proctor. Good to have you on board.
 
 I'm lining up a small group of partner proctors in the {place} area. Here's how it works:
 
@@ -51,5 +51,9 @@ I'm lining up a small group of partner proctors in the {place} area. Here's how 
 - When one picks in-person near you, we send them your way.
 - We buy the exam code and handle the student's payment. You don't front anything.
 - You proctor and get paid $50 per student. You and the student agree on where to meet.
+
+Students choose a partner over a testing center because you go to them. Here's what they see:
+
+{link:la-page}
 
 No minimums, and you can drop out anytime.",verified-badge,Interested? Just reply and I'll send the details.,,,
