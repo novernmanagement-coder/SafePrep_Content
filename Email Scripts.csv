@@ -11,9 +11,7 @@ outreach-1,Outreach 1 · Your free listing,Yes,All,Outreach 1,0,Preferred,Your f
 Our free ""Find a Proctor"" directory lets students search by ZIP code for someone near them. My goal is a real alternative to ServSafe's proctor search: a directory of proctors who are actually active and easy to reach. You're already listed, based on your ServSafe instructor/proctor listing. I'd like you to take a quick look and make sure it's right:
 
 Claim your free listing here:
-{claim_link}
-
-",,"If you'd rather not be listed, reply and I'll remove you.","Free for your students: SafePrep Refresher, a quick ServSafe review app for iPhone. Share it before any class you teach: foodsafetymadeeasy.com/refresher?c=outreach-1",,
+{claim_link}",,"If you'd rather not be listed, reply and I'll remove you.","Free for your students: SafePrep Refresher, a quick ServSafe review app for iPhone. Share it before any class you teach: foodsafetymadeeasy.com/refresher?c=outreach-1",,
 outreach-2,Outreach 2 · Follow-up,Yes,All,Outreach 2,10,,Is your {place} proctor listing correct?,"I'm a ServSafe instructor in Indiana, and I run a free directory that helps students find a proctor near them. You're already listed in the {place} area.
 
 New this month: you can now list your upcoming classes for free. They show right on your listing when students in your area search.
@@ -32,8 +30,7 @@ I promise this is the last time I'll reach out about it.
 
 One more thing, since you're in the business too: I put together toolkits from my own 20 years of proctoring, with checklists, client forms, cold-call scripts and email templates. If you're building your proctoring business, they're here:
 
-{link:toolkits}",,"
-Either way, good luck out there.","Free for your students: SafePrep Refresher, a quick ServSafe review app for iPhone. Share it before any class you teach: foodsafetymadeeasy.com/refresher?c=outreach-3",,
+{link:toolkits}",,"Either way, good luck out there.","Free for your students: SafePrep Refresher, a quick ServSafe review app for iPhone. Share it before any class you teach: foodsafetymadeeasy.com/refresher?c=outreach-3",,
 offer-ownpage,Offer · Own page (after Preferred),Yes,All,Preferred,14,Own_Page,"{first}, show up on Google too",You're at the top of Find a Proctor now. The next step is showing up when people search Google.,propremium,Want me to set it up? Just reply.,,,
 offer-preferred-codes,Offer · Preferred (after codes),Yes,All,Codes,14,Preferred,"{first}, more students for those codes","Now that you're bundling SafePrep with your exams, the next step is getting more students in the door.",preferred,Questions? Just reply. I read every one.,,,
 preferred-live,Preferred is live,Yes,All,Preferred,0,,"{first}, you're now a Preferred listing","Your Preferred listing is live. Students searching near {place} now see you at or near the top of the list, with the gold Preferred badge. Search your ZIP on {link:find}",,"Thanks for being part of Food Safety Made Easy, your personal resource platform. If anything on your listing needs changing, just reply.","Have you tried the SafePrep app? It's a full ServSafe Manager curriculum app your students can use to prepare for class or study on their own. Want to try it free? Just reply and I'll send you a redemption code.
@@ -62,4 +59,7 @@ Students choose a partner over a testing center because you go to them. Here's w
 
 {link:la-page}
 
-No minimums, and you can drop out anytime.",,Interested? Just reply and I'll send the details.,,,90001:50
+No minimums, and you can drop out anytime.",,"Interested? Everything's on our partner page, including the terms and a quick sign-up:
+{link:partner}
+
+Questions? Just reply.",,,90001:50
