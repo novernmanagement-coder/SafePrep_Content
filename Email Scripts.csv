@@ -109,7 +109,7 @@ Once posted, your upcoming classes appear directly on your listing so students c
 
 Add your classes here:
 ",,{listing_link},,Offers_Classes; Claimed,
-after-claimed-email1b,claimed-does-classes-yes-fap,Yes,Proctor,Claim_Date,5,Preferred; Own_Page,"{first},your ServSafe classes are now visible in {place}","Thanks for claiming your Find a Proctor listing and adding your ServSafe classes.
+after-claimed-email1b,claimed-does-classes-yes-fap,No,Proctor,Claim_Date,5,Preferred; Own_Page,"{first},your ServSafe classes are now visible in {place}","Thanks for claiming your Find a Proctor listing and adding your ServSafe classes.
 
 Your upcoming classes are now showing directly on your listing, making it easier for students to see when you're teaching without having to contact you first.
 
