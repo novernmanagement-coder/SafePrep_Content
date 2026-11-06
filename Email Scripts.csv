@@ -5,7 +5,40 @@ As a proctor, most of your business comes from one moment: a student or manager 
 welcome-instructor,Claimed: Welcome (Instructor),Yes,Instructor,Claim_Date,5,,Thanks for confirming - want to be first in {place}?,"Thanks for confirming your Find a Proctor listing. It helps us keep the directory accurate, so students searching in {place} find proctors who are actually active.
 
 Want to stand out from the rest of the list? Here's how:","verified-badge, preferred, pro, propremium",Or just hit reply and tell me what you need. I read every one.,,,
-offer-preferred,Claimed: Preferred Offer,Yes,All,Claim_Date,15,Preferred; Own_Page,"{first}, want your listing noticed?","Quick one. When a student searches near {place}, the closest proctors show first, unless someone has Preferred.",preferred,Be the first name students see... It takes two minutes.,,,
+offer-preferred,Claimed: Preferred Offer,No,All,Claim_Date,15,Preferred; Own_Page,"{first}, are you positioned to reach students searching for ServSafe classes in {place}","In my last email I talked about the value of one additional student.
+
+For most instructors, finding that one extra student means spending money on websites, SEO, advertising, or local marketing.
+
+The challenge isn't creating a class.
+
+The challenge is helping students discover it.
+
+Over the last few years I've invested heavily in building local ServSafe pages throughout the country.
+
+Many of those pages now appear near the top of Google searches for terms like:
+
+ServSafe Classes Los Angeles CA
+ServSafe Classes Savannah GA
+ServSafe Classes Gary Indiana
+
+Students searching those pages aren't looking for information.
+
+They're looking for a class.
+
+That's where Preferred comes in.
+
+Preferred Listings receive priority placement throughout the Food Safety Made Easy network, giving your classes greater visibility wherever students are already searching.
+
+Instead of relying on students to find your listing, Preferred helps place your listing where students are already looking.
+
+⭐ Preferred Listing Benefits
+
+Top placement within your ZIP code
+Featured visibility throughout the FSME network
+Gold Preferred badge
+Display up to 3 months of classes
+Only 3 Preferred positions available per ZIP code
+",preferred,Be the first name students see... It takes two minutes.,,,
 outreach-1,Unclaimed: Outreach #1,Yes,All,Outreach 1,0,Claimed,Free ServSafe directory for {place},"Are you satisfied with the ServSafe Proctor Directory?
 
 Students looking for certification often need a little more than a list of alphabetical names. They want to know who's active, who teaches nearby, and when classes are available.
