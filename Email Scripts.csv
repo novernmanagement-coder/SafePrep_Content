@@ -70,7 +70,7 @@ offer-preferred-codes,Codes: Preferred Offer,Yes,All,Codes,14,Preferred,"{first}
 preferred-live,Preferred: Listing Is Live,Yes,All,Preferred,0,,"{first}, you're now a Preferred listing","Your Preferred listing is live. Students searching near {place} now see you at or near the top of the list, with the gold Preferred badge. Search your ZIP on {link:find}",,"Thanks for being part of Food Safety Made Easy, your personal resource platform. If anything on your listing needs changing, just reply.","Have you tried the SafePrep app? It's a full ServSafe Manager curriculum app your students can use to prepare for class or study on their own. Want to try it free? Just reply and I'll send you a redemption code.
 - {link:safeprep-ios}
 - {link:safeprep-android}",,
-1,Unclaimed: Outreach #1 (Advertises Classes),Yes,All,Outreach 1,0,Preferred,"{first}, Claim Your ServSafe Instructor Listing","I see you're advertising your classes in the ServSafe directory. That tells students you're active and available. If the directory is bringing you students, that's great. But if it isn't doing as much as you hoped, you're not alone. The ServSafe list works, but it's hard to search, hard to navigate, and until now it was the only option instructors had.
+1,Unclaimed: Outreach #1 (Advertises Classes),No,All,Outreach 1,0,Preferred,"{first}, Claim Your ServSafe Instructor Listing","I see you're advertising your classes in the ServSafe directory. That tells students you're active and available. If the directory is bringing you students, that's great. But if it isn't doing as much as you hoped, you're not alone. The ServSafe list works, but it's hard to search, hard to navigate, and until now it was the only option instructors had.
 
 Something has changed.
 
