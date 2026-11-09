@@ -44,9 +44,9 @@ Students looking for certification often need a little more than a list of alpha
 
 I'm Gerald Miller, a ServSafe instructor and proctor for over 20 years. I built the Find a Proctor directory so students can find active instructors and proctors in their ZIP code.
 
-Claimed listings get an ""Active"" badge and show above unclaimed ones in search results. Add your ServSafe certificate number when you claim and you'll get a ""Verified"" badge instead. Confirm your listing here (one click):
+Claimed listings get an ""Active"" badge and show above unclaimed ones in search results. Add your ServSafe certificate number when you confirm and you'll get a ""Verified"" badge instead. Confirm your listing here (one click):
 
-👉 {claim_link}",presenter,"No cost, no catch. If you'd rather not be listed, reply and I'll remove you.
+👉 {claim_link}",,"No cost, no catch. If you'd rather not be listed, reply and I'll remove you.
 
 See your listing the way students see it: {listing_link}",,,
 outreach-2,Unclaimed: Outreach #2,No,All,Outreach 2,10,Claimed,"{first}, your {place} ServSafe directory listing has not been claimed yet","I emailed you a little while back about your free listing on Find a Proctor. It's still unclaimed, so I wanted to follow up.
