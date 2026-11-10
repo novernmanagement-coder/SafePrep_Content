@@ -39,3 +39,4 @@ ClassID,Format,Date,Time,StartTime,EndTime,Location,Capacity,Status,Notes,SalePr
 39,Either,2026-11-09,5:00pm To 9:00pm,17:00,21:00,Your city,20,Open,,,,,
 40,Either,2026-11-10,5:00pm To 9:00pm,17:00,21:00,Your city,20,Open,,,,,
 41,Either,2026-11-13,5:00pm To 9:00pm,17:00,21:00,Your city,20,Open,,,,,
+42,In-person,2026-11-14,5:00pm To 8:00pm,17:00,20:00,Your City,6,Open,"Two Hour Study Session Plus One Hour Test - $119.00 Per Person, Does not include The ServSafe Exam Voucher",,,,
