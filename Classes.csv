@@ -42,3 +42,5 @@ ClassID,Format,Date,Time,StartTime,EndTime,Location,Capacity,Status,Notes,SalePr
 42,In-person,2026-11-14,5:00pm To 8:00pm,17:00,20:00,Your City,6,Cancelled,"Two Hour Study Session Plus One Hour Test - $119.00 Per Person, Does not include The ServSafe Exam Voucher",,,,
 43,In-person,2026-11-15,10:00am To 2:00pm,10:00,14:00,Your City,6,Cancelled,"Two Hour Study Session Plus One Hour Test - $119.00 Per Person, Does not include The ServSafe Exam Voucher",,,,
 44,In-person,2026-11-17,5:00pm To 9:00pm,17:00,21:00,Your City,6,Open,"Three Hour Study Session Plus One Hour Test - $119.00 Per Person, Does not include The ServSafe Exam Voucher",,,,
+45,In-person,2026-11-18,5:00pm To 9:00pm,17:00,21:00,Your city,6,Open,,,,,
+46,In-person,2026-11-19,5:00pm To 9:00pm,17:00,21:00,Your city,6,Open,,,,,
