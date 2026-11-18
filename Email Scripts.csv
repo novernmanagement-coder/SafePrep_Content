@@ -113,7 +113,7 @@ Two quick tips:
 Add or change dates anytime:",,"{claim_link}
 
 See your card the way students see it: {listing_link}",,Classes; Claimed,
-after-claimed-email1a-2,Group2-Classes #2,No,All,Claim_Date,12,Classes,"{first}, students in {place} are picking class dates now","Most students searching for a ServSafe class already have a deadline: a new job, a health inspection, a manager who needs certified staff by a certain date.
+after-claimed-email1a-2,Group2-Classes #2,Yes,All,Claim_Date,12,Classes,"{first}, students in {place} are picking class dates now","Most students searching for a ServSafe class already have a deadline: a new job, a health inspection, a manager who needs certified staff by a certain date.
 
 They look for a date that works and book it. If they can’t find one on your card, they book with someone else, even if you’re the better fit.
 
