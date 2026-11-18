@@ -74,23 +74,23 @@ offer-preferred-codes,Group4-Upgrade Preferred (code buyers),No,All,Codes,14,Pre
 preferred-live,Group4-Preferred Is Live,No,All,Preferred,0,,"{first}, you're now a Preferred listing","Your Preferred listing is live. Students searching near {place} now see you at or near the top of the list, with the gold Preferred badge. Search your ZIP on {link:find}",,"Thanks for being part of Food Safety Made Easy, your personal resource platform. If anything on your listing needs changing, just reply.","Have you tried the SafePrep app? It's a full ServSafe Manager curriculum app your students can use to prepare for class or study on their own. Want to try it free? Just reply and I'll send you a redemption code.
 - {link:safeprep-ios}
 - {link:safeprep-android}",,
-partner-invite,Group2-Partner Invite:,No,All,Claim_Date,1,Partner,"{first}, quick in-person exam opportunity in {place}","Thanks for claiming your listing on Find a Proctor. Good to have you on board.
+partner-invite,Group2-Partner Invite:,No,All,Claim_Date,8,Partner,"{first}, earn $55 per exam with students we send you","Thanks for confirming your listing on Find a Proctor. Good to have you on board.
 
-I'm lining up a small group of partner proctors in the {place} area who'd like another source of income. Here's how it works:
+I'm lining up partner proctors who'd like another source of income. Here's how it works:
 
-- Students buy a self-study package from us and prepare on their own with our SafePrep app.
-- When they're ready, they can choose an in-person exam instead of taking it online through ProctorU.
+- Students study with us online. When they're ready, they can choose to test in person instead of on a webcam.
 - When a student near you picks in-person, we send them your way.
 - You proctor only. No teaching or prep. The student shows up ready to test.
-- We buy the exam code and handle the student's payment. You don't front anything.
-- You earn $50 per student. You and the student pick where to meet.
+- We buy the exam code. You don't front anything.
+- The student pays you $55 at the exam. No invoices, no waiting to get paid.
 
-Students choose a partner over a testing center because you go to them. {link:la-page}
+Students like a partner over a testing center because you go to them. See how it looks on our Los Angeles page: https://foodsafetymadeeasy.com/servsafe-classes-los-angeles/
 
-No minimums, and you can drop out anytime.",,"Interested? Everything's on our partner page, including the terms and a quick sign-up:
-{link:partner}
+Partners show on our city pages as we add each city, so signing up now gets you in first when yours goes live.
 
-Questions? Just reply.",,,90001:50
+No minimums, and you can drop out anytime. Partners need the Verified badge, so add your certificate number to your listing if you haven't yet.
+
+Interested? Everything's on our partner page, including the terms and a quick sign-up: {link:partner}",,Questions? Just reply.,,,90001:50
 brochure,Group3-Offer #3 Own Website (A),No,All,Claim_Date,7,Own_Page,"{first}, can students book your ServSafe class without calling or emailing?","I was looking at your website, and it does a good job of telling students who you are and how to reach you.
 
 Here's the catch: most students who find you online won't call or email. They want to pick a date and sign up on the spot, often late at night when they finally get around to it. If they can't, they keep searching until they find someone they can book.
