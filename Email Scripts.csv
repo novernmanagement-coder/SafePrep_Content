@@ -113,38 +113,22 @@ Two quick tips:
 Add or change dates anytime:",,"{claim_link}
 
 See your card the way students see it: {listing_link}",,Classes; Claimed,
-after-claimed-email1a-2,Group2-Classes #2,No,Proctor,Claim_Date,5,Classes,"{first}, students still can't see your upcoming ServSafe classes in {place}","While reviewing your Find a Proctor listing, I noticed your upcoming ServSafe classes still aren't showing.
+after-claimed-email1a-2,Group2-Classes #2,No,All,Claim_Date,12,Classes,"{first}, students in {place} are picking class dates now","Most students searching for a ServSafe class already have a deadline: a new job, a health inspection, a manager who needs certified staff by a certain date.
 
-If students can't see your schedule, they have no way of knowing whether you're teaching next week, next month, or not at all.
+They look for a date that works and book it. If they can’t find one on your card, they book with someone else, even if you’re the better fit.
 
-Many students start by asking a simple question:
+Posting your next dates is free and takes about a minute. Once they’re up, your card answers the first question every student asks.
 
-""When is the next class?""
+Add your dates here:",,"{claim_link}
 
-When your schedule is visible, they can find the answer immediately without having to email or call first.
+See your card the way students see it: {listing_link}",,Claimed,
+after-claimed-email1a-3,Group2-Classes #3,No,All,Claim_Date,25,Classes,"{first}, still offering ServSafe in {place}?","Quick check-in on your Find a Proctor listing.
 
-Adding classes takes about a minute and is completely free.
+Your card doesn’t show any upcoming dates yet. If you’re still teaching or testing, adding your next date or two is the easiest way to get students calling you instead of the next name on the list.
 
-Add your classes here:",,{listing_link},,Claimed,
-after-claimed-email1a-3,Group2-Classes #3,No,Proctor,Claim_Date,25,Classes,"{first}, are you still offering ServSafe classes in {place}?","Hope everything is going well.
+It’s free and takes about a minute:",,"{claim_link}
 
-We appreciate you claiming your listing in the Find a Proctor directory.
-
-While reviewing your profile, I noticed you're still advertising ServSafe classes elsewhere, but they aren't currently displayed on your Find a Proctor listing.
-
-Students often start with one simple question:
-
-""When is the next class?""
-
-If your schedule isn't visible, they may never know you're teaching.
-
-Adding your upcoming classes is completely free and only takes about a minute. Once posted, students can immediately see what classes are available without having to call or email first.",,"Add your classes here:
-
-{listing_link}
-
-If you've stopped offering public classes, or no longer want classes displayed, just reply to this email and I'll remove the class offering from your card.
-
-Either way, I wanted to check one last time before updating the listing.",,Claimed,
+If you’ve stopped offering public classes or exams, just reply and let me know. I’ll update your listing so students aren’t left waiting.",,Claimed,
 after-adv-email1a,Group3-#0 Income Talk,No,All,Claim_Date,25,,"{first}, what is one additional ServSafe student worth to your business?","Most would agree that finding students is the hardest part of the job. It can also be the most frustrating.
 
 I've often thought about what one more student every week would mean. Depending on where you work, a ServSafe class or exam brings in $70 to $180 per student. One extra a week can easily add hundreds of dollars a month to your business.
