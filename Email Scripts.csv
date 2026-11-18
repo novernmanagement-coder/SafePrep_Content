@@ -9,39 +9,20 @@ welcome-instructor,Group2-Welcome (Instructor),Yes,Instructor,Claim_Date,5,,"{fi
 Students pick the class they can see. Two free things put yours in front of them:",verified-badge,"Second, post your upcoming classes. Your dates show right on your card, and students can sign up from it. Add or update them anytime here: {claim_link}
 
 Questions? Just hit reply. I read every one.",,,
-offer-preferred,Group3-Offer #1 Preferred + Plus,No,All,Claim_Date,15,Preferred; Own_Page,"{first}, are you positioned to reach students searching for ServSafe classes in {place}","In my last email I talked about the value of one additional student.
+offer-preferred,Group3-Offer #1 Preferred + Plus,No,All,Claim_Date,40,Preferred; Preferred_Plus; Own_Page,"{first}, two ways to be the name students see in {place}","A couple of weeks ago I showed you the local ServSafe pages students find on Google. Here are the two ways to put your name in front of those students:
 
-For most instructors, finding that one extra student means spending money on websites, SEO, advertising, or local marketing.
+PREFERRED: $9.99/month (or $99.99/year, two months free)
+- Top of Find a Proctor when students search near you
+- Gold Preferred badge on your card
+- You show up before every listing that isn't Preferred
 
-The challenge isn't creating a class.
+PREFERRED PLUS: $29.99/month (founding rate)
+- Everything in Preferred, plus- Your card on our ServSafe class page for {place} or your nearest city, the page students find on Google
+- Only 3 spots per city, first come first served
 
-The challenge is helping students discover it.
+If one extra student a month covers it, the rest is profit.",,"It takes two minutes to sign up. {link:preferred}
 
-Over the last few years I've invested heavily in building local ServSafe pages throughout the country.
-
-Many of those pages now appear near the top of Google searches for terms like:
-
-ServSafe Classes Los Angeles CA
-ServSafe Classes Savannah GA
-ServSafe Classes Gary Indiana
-
-Students searching those pages aren't looking for information.
-
-They're looking for a class.
-
-That's where Preferred comes in.
-
-Preferred Listings receive priority placement throughout the Food Safety Made Easy network, giving your classes greater visibility wherever students are already searching.
-
-Instead of relying on students to find your listing, Preferred helps place your listing where students are already looking.
-
-⭐ Preferred Listing Benefits
-
-Top placement within your ZIP code
-Featured visibility throughout the FSME network
-Gold Preferred badge
-Display up to 3 months of classes
-Only 3 Preferred positions available per ZIP code",,Be the first name students see... It takes two minutes.,,,
+Questions? Just reply.",,Claimed,
 outreach-1,Group1-Outreach #1,Yes,All,Outreach 1,0,Claimed,"{first}, your ServSafe listing in {place}","Are you satisfied with the ServSafe Proctor Directory?
 
 Students looking for certification often need a little more than a list of alphabetical names. They want to know who's active, who teaches nearby, and when classes are available.
