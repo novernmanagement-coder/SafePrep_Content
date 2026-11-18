@@ -4,7 +4,7 @@ welcome-proctor,Group2-Welcome (Proctor),Yes,Proctor,Claim_Date,5,,Thanks for co
 As a proctor, most of your business comes from one moment: a student or manager searches near {place} and calls the first name they trust. Here's how to be that name:",verified-badge,"Second, keep your exam dates current. Listings with upcoming dates get the calls, because students can see you're available. You can update yours anytime here: {claim_link}
 
 Questions? Just hit reply. I read every one.",,,
-welcome-instructor,Group2-Welcome (Instructor),Yes,Instructor,Claim_Date,5,,"{first}, you're confirmed on Find a Proctor","Thanks for confirming your Find a Proctor listing. It keeps the directory accurate, so students searching in {place} find instructors who are actually active.
+welcome-instructor,Group2-Welcome (Instructor),Yes,Instructor,Claim_Date,1,,"{first}, you're confirmed on Find a Proctor","Thanks for confirming your Find a Proctor listing. It keeps the directory accurate, so students searching in {place} find instructors who are actually active.
 
 Students pick the class they can see. Two free things put yours in front of them:",verified-badge,"Second, post your upcoming classes. Your dates show right on your card, and students can sign up from it. Add or update them anytime here: {claim_link}
 
