@@ -135,19 +135,17 @@ Adding classes takes about a minute and is completely free.
 Once posted, your upcoming classes appear directly on your listing so students can immediately see when you're teaching without having to contact you first.
 
 Add your classes here:",,{listing_link},,Offers_Classes; Claimed,
-after-claimed-email1b,Group2-Classes #1b (posted),No,Proctor,Claim_Date,5,Preferred; Own_Page,"{first},your ServSafe classes are now visible in {place}","Thanks for claiming your Find a Proctor listing and adding your ServSafe classes.
+after-claimed-email1b,Group2-Classes #1b (posted),No,Proctor,Claim_Date,5,Preferred; Own_Page,"{first}, your classes are showing in {place}","Thanks for confirming your Find a Proctor listing and posting your dates.
 
-Your upcoming classes are now showing directly on your listing, making it easier for students to see when you're teaching without having to contact you first.
+They're now showing right on your card, so students can see when you're available without calling or emailing first. That's the first thing most of them ask: ""When is your next class?"" Now the answer is right there.
 
-Students searching for certification often start with one simple question:
+Two quick tips:
+- Keep your dates a few weeks out. Listings with nothing upcoming look inactive.
+- Old dates drop off on their own, so you only ever need to add new ones.
 
-""When is the next class?""
+Add or change dates anytime:",,"{claim_link}
 
-Now they can see the answer immediately.
-
-You can update, add, or remove classes at any time from your instructor dashboard.
-
-View your listing here:",,{listing_link},,Offers_Classes; Advertised_Classes; Claimed,
+See your card the way students see it: {listing_link}",,Offers_Classes; Advertised_Classes; Claimed,
 after-claimed-email1a-2,Group2-Classes #2,No,Proctor,Claim_Date,5,Advertised_Classes,"{first}, students still can't see your upcoming ServSafe classes in {place}","While reviewing your Find a Proctor listing, I noticed your upcoming ServSafe classes still aren't showing.
 
 If students can't see your schedule, they have no way of knowing whether you're teaching next week, next month, or not at all.
