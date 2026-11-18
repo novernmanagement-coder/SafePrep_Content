@@ -127,7 +127,7 @@ Posting your dates takes about a minute and it's free. They show right on your c
 Add your dates here:",,"{claim_link}
 
 Questions? Just reply.",,Claimed,
-after-claimed-email1b,Group2-Classes #1b (posted),No,Proctor,Claim_Date,5,Preferred; Own_Page,"{first}, your classes are showing in {place}","Thanks for confirming your Find a Proctor listing and posting your dates.
+after-claimed-email1b,Group2-Classes #1b (posted),No,Proctor,Claim_Date,5,,"{first}, your classes are showing in {place}","Thanks for confirming your Find a Proctor listing and posting your dates.
 
 They're now showing right on your card, so students can see when you're available without calling or emailing first. That's the first thing most of them ask: ""When is your next class?"" Now the answer is right there.
 
@@ -137,7 +137,7 @@ Two quick tips:
 
 Add or change dates anytime:",,"{claim_link}
 
-See your card the way students see it: {listing_link}",,Offers_Classes; Advertised_Classes; Claimed,
+See your card the way students see it: {listing_link}",,Classes; Claimed,
 after-claimed-email1a-2,Group2-Classes #2,No,Proctor,Claim_Date,5,Advertised_Classes,"{first}, students still can't see your upcoming ServSafe classes in {place}","While reviewing your Find a Proctor listing, I noticed your upcoming ServSafe classes still aren't showing.
 
 If students can't see your schedule, they have no way of knowing whether you're teaching next week, next month, or not at all.
