@@ -51,13 +51,13 @@ Confirm your listing here (one click):
 👉 {claim_link}",verified-badge,"No cost, no catch. If you'd rather not be listed, reply and I'll remove you.
 
 See your listing the way students see it: {listing_link}",,,
-outreach-2,Group1-Outreach #2,No,All,Outreach 2,10,Claimed,"{first}, your {place} ServSafe directory listing has not been claimed yet","I emailed you a little while back about your free listing on Find a Proctor. It's still unclaimed, so I wanted to follow up.
+outreach-2,Group1-Outreach #2,No,All,Outreach 2,10,Claimed,"{first}, is your {place} listing still current?","I emailed you a little while back about your free listing on Find a Proctor. It hasn't been confirmed yet, so I wanted to follow up.
 
-Students near {place} are searching for ServSafe classes and proctors right now. If they can't see your details or upcoming class dates, they'll usually book with whoever they find first, often one of the larger national training companies.
+When students near {place} look for a ServSafe class or proctor, they usually book with whoever they can reach first, often one of the big national training companies. A confirmed listing puts you in front of them.
 
-Claim your listing in the Find a Proctor Directory. It takes less than a minute. Then add your upcoming classes so they appear right on your card. It's all free.
+Confirm your listing here. It takes less than a minute and it's free:
 
-{claim_link}",,"No catch and nothing to buy. If you'd rather not be listed, just reply and I'll remove you.",Your listing is already live. See exactly what students see: {listing_link},,
+👉 {claim_link}",,"No catch and nothing to buy. If you'd rather not be listed, just reply and I'll remove you.",Your listing is already live. See exactly what students see: {listing_link},,
 outreach-3,Group1-Outreach #3,No,All,Outreach 3,20,Claimed,"{first}, are you still teaching and proctoring ServSafe in {place}?","Quick heads-up: unclaimed listings are moving down the Find a Proctor list soon, in favor of those who claimed theirs. When yours does, students searching near {place} will see other proctors first.
 
 Keeping your spot takes one minute:
