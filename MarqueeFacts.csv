@@ -5,9 +5,9 @@ ID,Category,Fact
 4,Time & Temperature,The total cooling window for TCS food is 6 hours from 135°F to 41°F.
 5,Time & Temperature,Hot TCS food must be held at 135°F or above at all times.
 6,Time & Temperature,Cold TCS food must be held at 41°F or below at all times.
-7,Time & Temperature,Poultry must reach a minimum internal cooking temperature of 165°F for 15 seconds.
-8,Time & Temperature,Ground meat must reach a minimum internal cooking temperature of 155°F for 15 seconds.
-9,Time & Temperature,Whole muscle beef pork and seafood must reach 145°F for 15 seconds.
+7,Time & Temperature,Poultry must reach a minimum internal cooking temperature of 165°F for less than 1 second (instantaneous).
+8,Time & Temperature,Ground meat must reach a minimum internal cooking temperature of 155°F for 17 seconds.
+9,Time & Temperature,"Seafood, steaks, and chops must reach 145°F for 15 seconds. Roasts must reach 145°F and hold it for 4 minutes."
 10,Time & Temperature,All TCS food reheated for service must reach 165°F for 15 seconds.
 11,Time & Temperature,Food reheated in a microwave must reach 165°F and rest covered for 2 minutes.
 12,Time & Temperature,Stuffed meats and stuffed poultry must reach 165°F because the stuffing contacts raw proteins.
@@ -36,7 +36,7 @@ ID,Category,Fact
 35,Personal Hygiene,A plain band ring is the only jewelry permitted for food handlers.
 36,Personal Hygiene,Fingernails must be kept short clean and unpolished to prevent harboring pathogens.
 37,Personal Hygiene,A food handler with vomiting or diarrhea must be excluded from the operation immediately.
-38,Personal Hygiene,The five reportable illnesses in food service are Norovirus Hepatitis A Salmonella Typhi Shigella and E. coli O157:H7.
+38,Personal Hygiene,"The Big Six reportable illnesses are Norovirus, Hepatitis A, Shigella, E. coli, Salmonella Typhi, and nontyphoidal Salmonella."
 39,Personal Hygiene,Jaundice is a symptom of Hepatitis A and requires immediate exclusion and reporting to the regulatory authority.
 40,Personal Hygiene,An infected wound on the hand must be covered with a bandage and protected with a single-use glove.
 41,Personal Hygiene,Food handlers may drink in food prep areas only from a covered container with a straw.
@@ -81,7 +81,7 @@ ID,Category,Fact
 80,Cleaning & Sanitizing,Ice machines must be cleaned regularly per manufacturer instructions to prevent mold and bacterial buildup.
 81,Facility & Equipment,Handwashing sinks must be used for handwashing only — never for food prep or equipment rinsing.
 82,Facility & Equipment,Every handwashing sink must be stocked with soap single-use towels and a waste bin at all times.
-83,Facility & Equipment,A handwashing sink must provide running water at a minimum temperature of 100°F.
+83,Facility & Equipment,A handwashing sink must provide running water at a minimum temperature of 85°F.
 84,Facility & Equipment,A handwashing reminder sign must be posted at every handwashing sink.
 85,Facility & Equipment,Floor-mounted equipment must be elevated at least 6 inches off the floor to allow cleaning underneath.
 86,Facility & Equipment,Light fixtures in food prep areas must have shatter-resistant covers to prevent glass contamination.
