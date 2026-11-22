@@ -10,7 +10,7 @@ ID,Type,Category,Content,MustHave
 9,Trap,General,"The exam loves to offer ""continue working with gloves"" as a distractor when a food handler is ill. Gloves do not make a sick food handler safe to work.",0
 10,Trap,General,Do not confuse cleaning with sanitizing. The exam treats them as two completely separate steps. Cleaning alone is never sufficient for food-contact surfaces.,0
 11,MemoryHook,General,For cooking temperatures remember the phrase Poultry Ground Whole — 165 155 145. Each step down is 10 degrees.,0
-12,MemoryHook,General,To remember the 5 reportable illnesses think of the phrase Never Hesitate — Salmonella Shigella E. coli. Norovirus Hepatitis A are the N and H.,0
+12,MemoryHook,General,"To remember the Big Six reportable illnesses, think SHE SSN: Shigella, Hepatitis A, E. coli, Salmonella Typhi, nontyphoidal Salmonella, Norovirus.",0
 13,Scenario,General,I have walked into kitchens where the manager thought the food was safe because it looked and smelled fine. Pathogens are invisible and odorless. Appearance means nothing.,0
 14,Scenario,General,One of the most common inspection failures I have seen is a handwashing sink blocked by a bus tub or a bucket. Keep that sink clear every single minute of the day.,0
 15,Tip,Time & Temperature,When a question asks about cooling always think two stages — 135 to 70 in 2 hours then 70 to 41 in 4 more hours. Write it on your scratch paper before the exam.,0
@@ -23,12 +23,12 @@ ID,Type,Category,Content,MustHave
 22,MemoryHook,Time & Temperature,For date marking think of the number 7 as a stop sign. On day 7 the food stops — it must be discarded.,0
 23,Scenario,Time & Temperature,I once watched a cook place a full 22-quart stockpot of soup directly into the walk-in cooler to cool. Three hours later it was still at 110°F in the center. Always divide into shallow pans.,0
 24,Scenario,Time & Temperature,A manager I trained thought the steam table was reheating food because it was hot to the touch. Steam tables are holding equipment only. They cannot safely reheat food.,0
-25,Tip,Cross-Contamination,Storage order questions are among the most common on the exam. Memorize the order top to bottom — ready-to-eat seafood whole cuts ground meat poultry. That is the cooking temperature order lowest to highest.,0
+25,Tip,Cross-Contamination,"Storage order questions are among the most common on the exam. Memorize the order top to bottom: ready-to-eat, seafood, whole cuts, ground meat, poultry. That is also the cooking temperature order, lowest to highest.",0
 26,Tip,Cross-Contamination,Any question about allergens where the customer has disclosed an allergy — the answer always involves notifying the manager. Never try to handle an allergen request without management involvement.,0
 27,Trap,Cross-Contamination,The exam will suggest rinsing gloves between tasks as an acceptable practice. It is not. Gloves must be removed hands washed and new gloves applied.,0
 28,Trap,Cross-Contamination,"The exam will offer ""store chemicals on the top shelf away from food"" as a correct answer. Top shelf is wrong — chemicals must be stored in a completely separate area away from all food and equipment.",0
-29,MemoryHook,Cross-Contamination,For storage order remember the phrase Really Safe Cooks Go Places — Ready-to-eat Seafood whole Cuts Ground meat Poultry. Top to bottom in the cooler.,0
-30,MemoryHook,Cross-Contamination,The nine allergens — think of the phrase ME FT SWPS — Milk Eggs Fish Tree nuts Shellfish Wheat Peanuts Sesame. It is not pretty but it works.,0
+29,MemoryHook,Cross-Contamination,"For storage order remember the phrase Really Safe Cooks Go Places: Ready-to-eat, Seafood, whole Cuts, Ground meat, Poultry. Top to bottom in the cooler.",0
+30,MemoryHook,Cross-Contamination,"For the nine major allergens, think three pairs and a triplet. The pairs: milk and eggs, fish and shellfish, peanuts and tree nuts. The triplet: wheat, soy, sesame.",0
 31,Scenario,Cross-Contamination,I have seen more allergen reactions traced back to a shared fryer than anything else. Even if a dish contains no nuts if it was fried in oil that also fried peanut-coated items it is contaminated.,0
 32,Scenario,Cross-Contamination,A chef I worked with used the same pair of tongs for raw chicken and then for salad without thinking twice. That single habit could have sickened every customer on that shift.,0
 33,Tip,Personal Hygiene,Handwashing questions are straightforward — the answer is almost always wash at a designated sink with soap and warm water for 15-20 seconds. Any shortcut offered is wrong.,0
@@ -76,6 +76,7 @@ ID,Type,Category,Content,MustHave
 75,Tip,Food Safety Management,HACCP questions on the exam focus heavily on CCPs and corrective actions. Know that a CCP is a point of control and that failing to meet a critical limit always requires immediate corrective action.,0
 76,Trap,Food Safety Management,"The exam will offer ""document and continue"" as a corrective action when a CCP is not met. Documentation is required but continuing without correction is never acceptable.",0
 77,Trap,Food Safety Management,Do not confuse verification with monitoring. Monitoring is the ongoing observation at a CCP. Verification is the broader confirmation that the entire HACCP system is working.,0
-78,MemoryHook,Food Safety Management,The seven HACCP principles — Hazard Analysis CCPs Critical Limits Monitoring Corrective Action Verification Records. Think of the phrase Happy Chefs Cook Meals Correctly — Very Reliably.,1
+78,MemoryHook,Food Safety Management,"The seven HACCP principles: Hazard analysis, Critical control points, Critical limits, Monitoring, Corrective actions, Verification, Record keeping. Think of the phrase Happy Chefs Cook Meals Correctly, Very Reliably.",1
 79,Scenario,Food Safety Management,The most common active managerial control failure I see is a manager who knows the rules but never walks the floor. Food safety only works if someone is watching. Walk your line every hour.,0
 80,Scenario,Food Safety Management,I have seen operations fail inspections not because the food handlers did not know the rules but because the manager never reinforced them. Culture flows from the top. If the manager is casual about food safety the staff will be too.,0
+81,MemoryHook,General,"YOPI is the highly susceptible population: Young children, Older adults, Pregnant women, Immunocompromised people. Never serve them raw seed sprouts, raw or undercooked meat, seafood or eggs (rare burgers, raw oysters, runny eggs), or unpasteurized milk or juice.",0
