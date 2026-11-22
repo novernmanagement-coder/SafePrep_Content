@@ -215,3 +215,14 @@ Depending on when your entry was added, some proctors were given an assumed ZIP 
 
 Right now your listing shows {place} {zip}. One tap confirms it, or lets you fix it:
 {zip_link}",,"That's it. No login, no forms, about ten seconds.",,Claimed,
+compare-page-launch,Group2-Compare Page Launch,No,Proctor,Claim_Date,14,,"{first}, a new way for students to find you","Our new comparison page launches on or before January 1. It lets students searching on Google compare ServSafe instructors side by side: next class date, price, and where.
+
+• Coming soon to a city near you
+• 3-month free trial
+• Limited to 3 instructors per page
+• No cost to you, no obligation
+• Any student who comes your way, you keep 100% of the fees
+
+The page pulls everything from your listing automatically, so the only thing to do now is make sure your listing is complete and your classes are posted:
+{claim_link}",,"
+If you'd like one of the 3 spots for {place}, just reply to this email and I'll save it for you.","Spots go to instructors with complete listings and current classes, so a few minutes on your listing now makes the difference.",Claimed,
