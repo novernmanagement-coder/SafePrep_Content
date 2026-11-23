@@ -14,7 +14,7 @@ confirm-zip,Group2-Confirm ZIP,Yes,All,Claim_Date,5,Partner,"{first}, is your Fi
 When we built the directory, some listings got an approximate ZIP code. Since students search by ZIP code, we want to make sure yours shows up where it should.
 
 Right now your listing shows {place} {zip}. One tap confirms it, or lets you fix it:
-{zip_link}",,"That's it. No login, no forms, about ten seconds.",,Claimed,
+{zip_link}",,"That's it. No login, about ten seconds",,Claimed,
 offer-preferred,Group3-Offer #1 Preferred + Plus,No,All,Claim_Date,40,Preferred; Preferred_Plus; Own_Page,"{first}, two ways to be the name students see in {place}","A couple of weeks ago I showed you the local ServSafe pages students find on Google. Here are the two ways to put your name in front of those students:
 
 PREFERRED: $9.99/month (or $99.99/year, two months free)
