@@ -211,7 +211,7 @@ Students on this page are ready to book, and the first thing they look for is yo
 Once they're up, reply to this email and I'll hold your spot. When all 5 are taken, the Birmingham page is full, and spots fill before January 1.",,Claimed,35203:30
 confirm-zip,Group2-Confirm ZIP,No,All,Claim_Date,5,Partner,"{first}, is your Find a Proctor ZIP code right?","Thank you for confirming your listing on Find a Proctor.
 
-Depending on when your entry was added, some proctors were given an assumed ZIP code. Since students search by ZIP code, we want to make sure yours shows up where it should.
+When we built the directory, some listings got an approximate ZIP code. Since students search by ZIP code, we want to make sure yours shows up where it should.
 
 Right now your listing shows {place} {zip}. One tap confirms it, or lets you fix it:
 {zip_link}",,"That's it. No login, no forms, about ten seconds.",,Claimed,
