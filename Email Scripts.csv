@@ -9,6 +9,12 @@ welcome-instructor,Group2-Welcome (Instructor),Yes,Instructor,Claim_Date,1,,"{fi
 Students pick the class they can see. Two free things put yours in front of them:",verified-badge,"Second, post your upcoming classes. Your dates show right on your card, and students can sign up from it. Add or update them anytime here: {claim_link}
 
 Questions? Just hit reply. I read every one.",,,
+confirm-zip,Group2-Confirm ZIP,No,All,Claim_Date,5,Partner,"{first}, is your Find a Proctor ZIP code right?","Thank you for confirming your listing on Find a Proctor.
+
+When we built the directory, some listings got an approximate ZIP code. Since students search by ZIP code, we want to make sure yours shows up where it should.
+
+Right now your listing shows {place} {zip}. One tap confirms it, or lets you fix it:
+{zip_link}",,"That's it. No login, no forms, about ten seconds.",,Claimed,
 offer-preferred,Group3-Offer #1 Preferred + Plus,No,All,Claim_Date,40,Preferred; Preferred_Plus; Own_Page,"{first}, two ways to be the name students see in {place}","A couple of weeks ago I showed you the local ServSafe pages students find on Google. Here are the two ways to put your name in front of those students:
 
 PREFERRED: $9.99/month (or $99.99/year, two months free)
@@ -209,12 +215,6 @@ Students on this page are ready to book, and the first thing they look for is yo
 {claim_link}
 
 Once they're up, reply to this email and I'll hold your spot. When all 5 are taken, the Birmingham page is full, and spots fill before January 1.",,Claimed,35203:30
-confirm-zip,Group2-Confirm ZIP,No,All,Claim_Date,5,Partner,"{first}, is your Find a Proctor ZIP code right?","Thank you for confirming your listing on Find a Proctor.
-
-When we built the directory, some listings got an approximate ZIP code. Since students search by ZIP code, we want to make sure yours shows up where it should.
-
-Right now your listing shows {place} {zip}. One tap confirms it, or lets you fix it:
-{zip_link}",,"That's it. No login, no forms, about ten seconds.",,Claimed,
 compare-page-launch,Group2-Compare Page Launch,No,Proctor,Claim_Date,14,,"{first}, a new way for students to find you","Our new comparison page launches on or before January 1. It lets students searching on Google compare ServSafe instructors side by side: next class date, price, and where.
 
 • Coming soon to a city near you
