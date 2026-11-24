@@ -9,7 +9,7 @@ welcome-instructor,Group2-Welcome (Instructor),Yes,Instructor,Claim_Date,1,,"{fi
 Students pick the class they can see. Two free things put yours in front of them:",verified-badge,"Second, post your upcoming classes. Your dates show right on your card, so students can see when you teach before they call. Add or update them anytime here: {claim_link}
 
 Questions? Just hit reply. I read every one.",,,
-confirm-zip,Group2-Confirm ZIP,Yes,All,Claim_Date,5,Partner,"{first}, is your Find a Proctor ZIP code right?","Thank you for confirming your listing on Find a Proctor.
+confirm-zip,Group2-Confirm ZIP,Yes,All,Claim_Date,3,Partner,"{first}, is your Find a Proctor ZIP code right?","Thank you for confirming your listing on Find a Proctor.
 
 When we built the directory, some listings got an approximate ZIP code. Since students search by ZIP code, we want to make sure yours shows up where it should.
 
